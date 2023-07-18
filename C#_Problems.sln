@@ -3,21 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning_C#", "Learning_C#\Learning_C#.csproj", "{A3505CB6-0E7B-46B6-8995-D1544AD484CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Learning_C#", "Learning_C#\Learning_C#.csproj", "{A3505CB6-0E7B-46B6-8995-D1544AD484CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konstruktor", "Konstruktor\Konstruktor.csproj", "{BCA4930E-FC14-422E-B2FA-CDBC5E9B8EE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Konstruktor", "Konstruktor\Konstruktor.csproj", "{BCA4930E-FC14-422E-B2FA-CDBC5E9B8EE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassCar", "Car\ClassCar.csproj", "{ACEB96A1-79CC-4D0A-9BA5-32E8B6F02675}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassCar", "Car\ClassCar.csproj", "{ACEB96A1-79CC-4D0A-9BA5-32E8B6F02675}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuple", "Tuple\Tuple.csproj", "{C95D69C9-07E1-4218-8227-C1432130CDA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuple", "Tuple\Tuple.csproj", "{C95D69C9-07E1-4218-8227-C1432130CDA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{F6A768C9-2C48-4D50-ABE5-95C82B048C7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate", "Delegate\Delegate.csproj", "{F6A768C9-2C48-4D50-ABE5-95C82B048C7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classpasword", "Classpsword\Classpasword.csproj", "{C22608B0-298C-46B5-BFD1-FF2A95F58EB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classpasword", "Classpsword\Classpasword.csproj", "{C22608B0-298C-46B5-BFD1-FF2A95F58EB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{44565D69-CBDE-481E-B977-7D346B19AE48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ", "LINQ\LINQ.csproj", "{44565D69-CBDE-481E-B977-7D346B19AE48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_Book", "Exercise_Book\Exercise_Book.csproj", "{A397E882-B483-476B-8660-4F7079BB501C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_Book", "Exercise_Book\Exercise_Book.csproj", "{A397E882-B483-476B-8660-4F7079BB501C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task", "Task\Task.csproj", "{61CB1848-E3E5-4426-811C-2125BEBD4B58}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Takrorlash", "Takrorlash\Takrorlash.csproj", "{76DA2A0A-E4CD-428F-8AF7-92D663A441DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fayllar_bilan_ishlash", "fayllar_bilan ishlash\fayllar_bilan_ishlash.csproj", "{9616A154-9A39-46FB-85EE-97493B662C33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +63,18 @@ Global
 		{A397E882-B483-476B-8660-4F7079BB501C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A397E882-B483-476B-8660-4F7079BB501C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A397E882-B483-476B-8660-4F7079BB501C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61CB1848-E3E5-4426-811C-2125BEBD4B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61CB1848-E3E5-4426-811C-2125BEBD4B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61CB1848-E3E5-4426-811C-2125BEBD4B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61CB1848-E3E5-4426-811C-2125BEBD4B58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76DA2A0A-E4CD-428F-8AF7-92D663A441DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76DA2A0A-E4CD-428F-8AF7-92D663A441DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76DA2A0A-E4CD-428F-8AF7-92D663A441DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76DA2A0A-E4CD-428F-8AF7-92D663A441DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9616A154-9A39-46FB-85EE-97493B662C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9616A154-9A39-46FB-85EE-97493B662C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9616A154-9A39-46FB-85EE-97493B662C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9616A154-9A39-46FB-85EE-97493B662C33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
